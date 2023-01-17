@@ -36,7 +36,4 @@
 
 </div>
 
-
-
-![snake gif](https://github.com/ixmateus/ixmateus/blob/output/github-contribution-grid-snake.gif)
-
+![Snake animation](https://github.com/ixmateus/ixmateus/blob/output/github-contribution-grid-snake.svg)
