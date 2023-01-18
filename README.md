@@ -20,7 +20,6 @@
 
 
 <div style= "display: inline_block"><br/>
-    <img alogn="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
 <img alogn="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
