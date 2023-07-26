@@ -36,5 +36,3 @@
 <img alogn="center" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 
 </div>
-
-![Snake animation](https://github.com/ixmateus/ixmateus/blob/output/github-contribution-grid-snake.svg)
