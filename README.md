@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?ixmateus=your-github-ixmateus&color=blueviolet)
 
 ### Olá, eu me chamo Mateus Monteiro! 🥹
 
